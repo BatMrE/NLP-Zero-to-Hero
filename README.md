@@ -3,26 +3,64 @@
 Welcome to the **NLP: Zero to Hero** repository! This project takes you on a journey through various Natural Language Processing (NLP) tasks, from text preprocessing to advanced sequence models.
 
 ##  Table of Contents
-- [Introduction](#introduction)
-- [Setup](#setup)
-- [Text Preprocessing](#text-preprocessing)
-  - [Tokenization](#tokenization)
-  - [Stopword Removal](#stopword-removal)
-  - [Stemming and Lemmatization](#stemming-and-lemmatization)
-  - [Vectorization](#vectorization)
-- [Basic NLP Tasks](#basic-nlp-tasks)
-  - [Sentiment Analysis](#sentiment-analysis)
-  - [Named Entity Recognition (NER)](#named-entity-recognition-ner)
-  - [Part-of-Speech Tagging](#part-of-speech-tagging)
-  - [Text Classification](#text-classification)
-- [Word Embeddings](#word-embeddings)
-  - [Word2Vec](#word2vec)
-  - [GloVe](#glove)
-- [Sequence Models](#sequence-models)
-  - [Recurrent Neural Networks (RNN)](#recurrent-neural-networks-rnn)
-  - [Long Short-Term Memory (LSTM)](#long-short-term-memory-lstm)
-  - [Gated Recurrent Units (GRU)](#gated-recurrent-units-gru)
-- [Results and Comparisons](#results-and-comparisons)
+
+Text Preprocessing
+
+Tokenization
+Stopword removal
+Stemming and Lemmatization
+Vectorization
+
+
+Basic NLP Tasks
+
+Sentiment Analysis
+Named Entity Recognition (NER)
+Part-of-Speech Tagging
+Text Classification
+
+
+Word Embeddings
+
+Introduction to Word Embeddings
+Word2Vec
+GloVe
+FastText
+
+
+Sequence Models
+
+Recurrent Neural Networks (RNN)
+Long Short-Term Memory (LSTM) Networks
+Gated Recurrent Units (GRU)
+Attention Mechanisms and Transformers
+
+Attention Mechanisms
+Transformer Architecture
+Implementing Transformers
+
+
+BERT and Transformer-based Models
+
+BERT (Bidirectional Encoder Representations from Transformers
+Variants of BERT
+GPT (Generative Pre-trained Transformer)
+T5 (Text-To-Text Transfer Transformer)
+Other Transformer-based Models
+
+
+Advanced Embeddings and Contextualized Word Representations
+
+ELMo (Embeddings from Language Models)
+ULMFiT (Universal Language Model Fine-tuning)
+Contextualized Embeddings in Practice
+
+
+Advanced Sequence Models
+
+Bidirectional RNNs (BiRNN)
+Sequence-to-Sequence (Seq2Seq) Models
+Transformer-based Seq2Seq Models
 
 ## Introduction
 
